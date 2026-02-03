@@ -131,14 +131,25 @@ Heart disease probability ≈ 0.96 (high risk)
 ```
 
 ---
+### Conclusion
 
-## 🧠 Final Insights
+This project successfully implemented a logistic regression model from scratch
+to predict heart disease risk using clinical data. The model demonstrated stable
+training behavior, meaningful feature contributions, and consistent performance
+across training and test sets.
 
-* Logistic regression provides interpretable predictions for heart disease risk.
-* Feature normalization and proper evaluation are critical for stable training.
-* Regularization does not always improve metrics but enhances robustness.
-* Cloud deployment bridges the gap between academic models and real-world systems.
+Deployment in Amazon SageMaker Studio validated the portability of the trained
+model to a cloud environment. The inference notebook correctly loaded the model
+parameters and generated real-time predictions. For a sample patient
+(Age=60, Cholesterol=300, BP=140, Max HR=120, ST Depression=2.3, Vessels=2),
+the model produced a heart disease probability of approximately **0.96**,
+indicating high risk.
 
+These results highlight the practicality of logistic regression as an
+interpretable and efficient baseline model for clinical decision support.
+Additionally, the cloud-based deployment demonstrates how machine learning
+models can be integrated into scalable healthcare applications for real-time
+risk assessment.
 ---
 
 ## 📁 Repository Structure
@@ -159,5 +170,5 @@ Heart disease probability ≈ 0.96 (high risk)
 
 ## 👩‍💻 Author
 
-* **Karol Estupiñan** –
+* **Karol Estupiñan** 
 
