@@ -102,14 +102,14 @@ The following screenshots document the deployment process:
 
 1. **SageMaker Studio Environment**
 
-   * `images/screen1.png`
-   * `images/screen 3.png`
+   *  ![Texto alternativo](images/screen1.png)
+   * ![Texto alternativo](images/screen%203.png)
 2. **Model Files Uploaded in JupyterLab**
 
-   * `images/screen 4.png`
+   * ![Texto alternativo](images/screen%204.png)
 3. **Inference Output in SageMaker**
 
-   * `images/screen 6.png`
+   * ![Texto alternativo](images/screen%206.png)
 
 ---
 
