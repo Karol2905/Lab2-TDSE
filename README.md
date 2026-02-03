@@ -1,10 +1,8 @@
 
 # Heart Disease Risk Prediction using Logistic Regression
 
----
-
-## 📌 Repo Overview
-
+### Description
+This project implements a logistic regression model from scratch to predict the presence of heart disease using clinical patient data. The workflow includes exploratory data analysis, model training and evaluation, decision boundary visualization, regularization, and deployment exploration using Amazon SageMaker to demonstrate a complete end-to-end machine learning pipeline.
 ### Exercise Summary
 
 Implements logistic regression for heart disease prediction, covering:
@@ -131,10 +129,6 @@ Number of Vessels = 2
 ```
 Heart disease probability ≈ 0.96 (high risk)
 ```
-
-This demonstrates real-time inference capability in a cloud-based environment.
-
-> *Note:* The model was executed within SageMaker Studio rather than a persistent REST endpoint, which is sufficient to demonstrate deployment and inference for this assignment.
 
 ---
 
