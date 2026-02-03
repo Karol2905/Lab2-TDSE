@@ -158,9 +158,6 @@ This demonstrates real-time inference capability in a cloud-based environment.
 ├── mu.npy
 ├── sigma.npy
 ├── images/
-│   ├── sagemaker_studio_home.png
-│   ├── model_files_uploaded.png
-│   ├── inference_result.png
 └── README.md
 ```
 
@@ -168,36 +165,5 @@ This demonstrates real-time inference capability in a cloud-based environment.
 
 ## 👩‍💻 Author
 
-* **Karol Estupiñan** – Initial work
+* **Karol Estupiñan** –
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🙌 Acknowledgments
-
-* Kaggle for providing the Heart Disease dataset
-* Amazon Web Services for SageMaker Studio
-* Course instructors and academic resources
-* Inspiration from real-world healthcare applications of machine learning
-
----
-
-## ✅ LISTO PARA ENTREGA
-
-✔ Cumple el Repo overview solicitado
-✔ Incluye dataset con cifras reales
-✔ Incluye Deployment Evidence con SageMaker
-✔ No inventa endpoints ni métricas
-
-Si quieres, dime y te ayudo a:
-
-* 🖼️ Renombrar correctamente las screenshots
-* 📝 Ajustar el texto exactamente al estilo de tu profe
-* 🏁 Escribir el mensaje final para Moodle
-
-Excelente trabajo, **ya está completo** 🎉
